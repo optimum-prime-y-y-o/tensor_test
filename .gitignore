@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+chromedriver/
+venv/
+logs/
+sbisplugin-setup-web.exe
